@@ -1,0 +1,4 @@
+#!/bin/bash
+# Esto es un comenatrio
+echo "Hola mundo"
+
